@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>828805140059-8n9gh5fiq6ji9ogau43p4ofo8984a6fn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.828805140059-8n9gh5fiq6ji9ogau43p4ofo8984a6fn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCsmPvYKwus0LLseJBpAB4bsA2yttJqaBE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>828805140059</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>InfoEmpire.ReferralAndRewards</string>
+	<key>PROJECT_ID</key>
+	<string>referralandrewards-44874</string>
+	<key>STORAGE_BUCKET</key>
+	<string>referralandrewards-44874.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:828805140059:ios:8e3a21626c36a268a0797e</string>
+</dict>
+</plist>

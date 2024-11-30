@@ -1,0 +1,277 @@
+/* 
+  Localizable.strings
+  ReferralAndRewards
+
+  Created by Ismail Gok on 2022-09-29.
+  
+*/
+
+"Email" = "e-mail";
+"Password" = "le mot de passe";
+"Create account" = "Créer un compte";
+"Reset Password" = "réinitialiser le mot de passe";
+"Save Credentials" = "Enregistrer les informations d'identification";
+"Login" = "CONNEXION";
+
+/* Customer Account Screens */
+
+// Customer Main Screen
+"Invite" = "INVITER";
+"Log out" = "SE DÉCONNECTER";
+"Convert" = "CONVERTIR";
+"Pay QR" = "PAYER QR";
+"More" = "SUITE";
+"Referral" = "référence";
+"Scan QR or enter offer code to claim perks" = "Scannez le QR ou entrez le code de l'offre pour réclamer des avantages";
+"Enter offer code here" = "Entrez le code de l'offre ici";
+"Get" = "OBTENIR";
+
+// Customer Account Info Edit Screen
+"Delete Account" = "SUPPRIMER LE COMPTE";
+"Edit Account Credentials" = "MODIFIER LES IDENTIFIANTS DU COMPTE";
+"Display Name" = "Afficher un nom";
+"First Name" = "Prénom";
+"Last Name" = "Nom de famille";
+"Phone" = "Téléphoner";
+"Address" = "Adresse";
+"City" = "Ville";
+"Province/State" = "Province/État";
+"Select a Province/State" = "Sélectionnez une province/un état";
+"Postal Code" = "code postal";
+"I agree with the Terms & Conditions" = "Je suis d'accord avec les termes et conditions";
+"Save" = "sauvegarder";
+
+// Invite Screen
+"Scan QR code to quickly be linked to the app download page" = "Scannez le code QR pour être rapidement lié à la page de téléchargement de l'application";
+"Referral ID" = "ID de parrainage";
+"SMS Invitation" = "Invitation par SMS";
+"Send SMS invitation to your friends to earn a reward" = "Envoyez une invitation par SMS à vos amis pour gagner une récompense";
+"Send SMS" = "ENVOYER UN SMS";
+
+// Convert Screen
+"Points" = "Points";
+"Dollars" = "collars";
+"Convert Dollars" = "CONVERTIR DES DOLLARS";
+"Convert Points" = "CONVERTIR LES POINTS";
+"Cancel" = "ANNULER";
+
+// More Screen
+// - Rewards chart section
+"Rewards Chart" = "TABLEAU DES RÉCOMPENSES";
+"Collect" = "Recueillir"; // 1
+"More to get your" = "plus pour obtenir votre"; // 2
+"You can now claim your" = "Vous pouvez maintenant réclamer votre";
+
+// - Membership section
+"Membership" = "ADHÉSION";
+"Expires" = "Expire";
+"Details" = "Détails";
+
+// - Redeeamable section
+"Redeemable" = "RACHETABLE";
+
+// - Notes section
+"Notes" = "REMARQUES";
+"Published by" = "Publié par";
+
+// Bottom buttons
+"Back" = "RETOUR";
+"Map" = "CARTE";
+"Messages" = "MESSAGES";
+"Activity" = "ACTIVITÉ";
+"Google Review link cannot be found" = "Le lien Google Review est introuvable";
+"In order to get the reward" = "Afin d'obtenir la récompense";
+
+// Messages Screen
+"Store Message" = "MESSAGE DU MAGASIN";
+
+
+/* Store Owner Account Screens */
+
+// Search Account
+"Search Account" = "Rechercher un compte";
+"Scan QR code or type and search" = "Scannez le code QR ou tapez et recherchez";
+"Enter account number" = "Entrez le numéro de compte";
+"SCAN QR CODE" = "SCANNEZ LE QRCODE";
+"SEARCH" = "CHERCHER";
+
+// Setup Screen
+"SETUP" = "METTRE EN PLACE";
+"SMS INVITATION" = "INVITATION SMS";
+"EDIT GOOGLE REVIEWS" = "MODIFIER LES AVIS GOOGLE";
+"VIEW REPORTS" = "VOIR LES RAPPORTS";
+"EDIT NOTIFICATIONS" = "NOTIFICATIONS DE MODIFICATION";
+"TRANSACTION RECORDS" = "ENREGISTREMENTS DES TRANSACTIONS";
+"EDIT STAMPSHEET" = "MODIFIER LA FEUILLE DE TAMPONS";
+"REFERRAL" = "RÉFÉRENCE";
+"STORE MESSAGE" = "MESSAGE EN MAGASIN";
+"EDIT STORE PRODUCTS" = "MODIFIER LES PRODUITS DU MAGASIN";
+"EDIT OFFER CODES" = "MODIFIER LES CODES D'OFFRE";
+"EDIT REDEEMABLES" = "MODIFIER LES REMBOURSABLES";
+"EDIT ACCOUNT INFO" = "MODIFIER LES INFORMATIONS DU COMPTE";
+"EDIT MEMBERSHIP" = "MODIFIER L'ADHÉSION";
+
+// Edit SMS Invitation Screen
+"SMS INVITATION TEXT" = "TEXTE D'INVITATION SMS";
+"CANCEL" = "ANNULER";
+"SET" = "POSITIONNER";
+"Successfully updated" = "Mise à jour réussie";
+"Enter a promotion text" = "Saisir un texte promotionnel";
+
+// Edit Review Reward Screen
+//"EDIT GOOGLE REVIEWS" = "RÉCOMPENSE DE RÉVISION DE MODIFICATION";
+"Quantity" = "Quantité";
+"points" = "points";
+"dollars" = "dollars";
+"SET REWARD" = "DÉFINIR LA RÉCOMPENSE";
+"Successfully set" = "Défini avec succès";
+"Couldn't set the reward data" = "Impossible de définir les données de récompense";
+
+// Reports Screen
+"REPORTS" = "RAPPORTS";
+"Period" = "Période";
+"Day" = "Jour";
+"Days" = "Journées";
+"View Report" = "Voir le rapport";
+"Cardholder ID" = "ID du titulaire de la carte";
+"Name" = "Nom";
+"Date" = "Date";
+"No Data Found" = "Aucune donnée disponible";
+"Something went wrong" = "Quelque chose s'est mal passé";
+
+// All Notications Screen
+"ADD" = "AJOUTER";
+"NOTIFICATIONS" = "AVIS";
+"Type" = "Taper";
+"Description" = "La description";
+"Send" = "Envoyer";
+"After" = "Après";
+"Before" = "Avant de";
+"EDIT" = "ÉDITER";
+"REMOVE" = "RETIRER";
+"Successfully deleted" = "Supprimé avec succès";
+
+// Transaction Records Screen
+"TRANSACTION RECORDS" = "ENREGISTREMENTS DES TRANSACTIONS";
+"Cardholder" = "Titulaire de la carte";
+"Transactor" = "Transacteur";
+"Description" = "La description";
+"Points" = "Points";
+"Date" = "Date";
+
+// Edit Stampsheet Screen
+"EDIT STAMPSHEET" = "MODIFIER LA FEUILLE DE TAMPONS";
+"Rewards" = "Récompenses";
+"Stamps" = "Timbres";
+"Autostamp" = "Tampon automatique";
+"Autoreward" = "Récompense automatique";
+"ADD STAMPSHEET" = "AJOUTER UNE FEUILLE DE TIMBRE";
+"Prize" = "Prix";
+"Size" = "Taille";
+"Auto-Stamp" = "Tampon automatique";
+"Auto-Reward" = "Récompense automatique";
+"Manage" = "Faire en sorte";
+"off" = "à l'arrêt";
+"on" = "allumée";
+"EDIT" = "ÉDITER";
+"REMOVE" = "RETIRER";
+"Successfully deleted" = "Supprimé avec succès";
+"Please add a rewards to the stampsheet" = "Veuillez ajouter une récompense à la feuille de timbres";
+"Please add stamps to the stampsheet" = "Veuillez ajouter des timbres à la feuille de timbres";
+
+// Add Referral Screen
+"ADD REFERRAL" = "AJOUTER UNE RÉFÉRENCE";
+"Name" = "Nom";
+"Receiver Amount" = "Montant du destinataire";
+"Referrer Amount" = "Montant du parrain";
+"CANCEL" = "ANNULER";
+"ADD" = "AJOUTER";
+"UPDATE" = "METTRE À JOUR";
+"Referral is saved successfully" = "La référence est enregistrée avec succès";
+"Please fill in the fields" = "Veuillez remplir les champs";
+"Comment about the referral" = "Commentaire sur le renvoi";
+
+// Store Message Screen
+"STORE MESSAGE" = "MESSAGE DU MAGASIN";
+"Remove" = "Retirer";
+"Enter a new message" = "Entrez un nouveau message";
+
+// Edit Store Products Screen
+"EDIT STORE PRODUCTS" = "MODIFIER LES PRODUITS DU MAGASIN";
+"Name" = "Nom";
+"Amount" = "Montante";
+"Quantity" = "Quantité";
+"ADD PRODUCT" = "AJOUTER UN PRODUIT";
+"Save image" = "Enregistrer l'image";
+"Share" = "Partager";
+"CONFIRM" = "CONFIRMER";
+
+// Edit Offer Codes Screen
+"EDIT OFFER CODES" = "MODIFIER LES CODES D'OFFRE";
+"Code" = "Code";
+"Good until" = "Bon jusqu'à";
+"ADD CODE" = "AJOUTER UN CODE";
+
+// Edit Redeemables Screen
+"EDIT REDEEMABLES" = "MODIFIER LES REMBOURSABLES";
+"Cost" = "Coût";
+"Please name the redeemable" = "Veuillez nommer le rachat";
+"Please add a price to the redeemable" = "Veuillez ajouter un prix à l'échange";
+
+// Edit Account Credentials Screen
+"EDIT ACCOUNT CREDENTIALS" = "MODIFIER LES IDENTIFIANTS DU COMPTE";
+"DELETE ACCOUNT" = "SUPPRIMER LE COMPTE";
+"Are you sure you want to delete your account" = "Êtes-vous sûr de vouloir supprimer votre compte";
+"Delete Account" = "Supprimer le compte";
+"Cancel" = "Annuler";
+"Please contact application administrator in order to delete your store account" = "Veuillez contacter l'administrateur de l'application afin de supprimer votre compte de boutique";
+"Display Name" = "Afficher un nom";
+"Add a display name" = "Ajouter un nom d'affichage";
+"Email" = "E-mail";
+"Password" = "Mot de passe";
+"Enter new password" = "Entrez un nouveau mot de passe";
+"Re-enter password" = "Entrez à nouveau le mot de passe";
+"First Name" = "Prénom";
+"Add a first name" = "Ajouter un prénom";
+"Last Name" = "Nom de famille";
+"Add a last name" = "Ajouter un nom de famille";
+"Phone" = "Téléphoner";
+"Add a phone number" = "Ajouter un numéro de téléphone";
+"Address" = "Adresse";
+"Add a street address" = "Ajouter une adresse postale";
+"City" = "Ville";
+"Add a city" = "Ajouter une ville";
+"Province/State" = "Province/État";
+"Select a Province/State" = "Sélectionnez une province/un État";
+"Postal Code" = "code postal";
+"Zip/Postal" = "Code postal/code postal";
+"Business Name" = "Nom de l'entreprise";
+"Add a business name" = "Ajouter un nom d'entreprise";
+"Card Name" = "Nom de la carte";
+"Add a card name" = "Ajouter un nom de carte";
+"Google Review Link" = "Lien de révision Google";
+"I agree with the" = "je suis d'accord avec le";
+"Terms & Conditions" = "termes et conditions";
+"Password fields don't match" = "Les champs de mot de passe ne correspondent pas";
+"You must agree to the Terms & Conditions" = "Vous devez accepter les termes et conditions";
+
+// Edit Plans Screen
+"EDIT PLANS" = "MODIFIER LES PLANS";
+"Duration" = "Durée";
+"Successfully added" = "Ajouté avec succès";
+"Successfully deleted" = "Supprimé avec succès";
+"Please name the plan" = "Veuillez nommer le plan";
+"Please add a duration to the plan" = "Veuillez ajouter une durée au plan";
+
+"Tap to go to your" = "Appuyez pour accéder à votre";
+
+"Reward Name" = "Nom de la récompense";
+"Stamp Count" = "Nombre de timbres";
+
+// Searched Customer screen
+"No membership" = "Pas d'adhésion";
+"No referrals" = "Aucune recommandation";
+"ADD DOLLARS" = "AJOUTER DES DOLLARS";
+"ADD POINTS" = "AJOUTER DES POINTS";
+"USE DOLLARS" = "UTILISER DES DOLLARS";
+"CONVERT" = "CONVERTIR";

@@ -1,0 +1,279 @@
+/* 
+  Localizable.strings
+  ReferralAndRewards
+
+  Created by Ismail Gok on 2022-09-29.
+  
+*/
+
+// Login Screen
+"Email" = "Email";
+"Password" = "Password";
+"Create account" = "Create account";
+"Reset Password" = "Reset Password";
+"Save Credentials" = "Save Credentials";
+"Login" = "LOGIN";
+
+/* Customer Account Screens */
+
+// Customer Main Screen
+"Invite" = "INVITE";
+"Log out" = "LOGOUT";
+"Convert" = "CONVERT";
+"Pay QR" = "PAY QR";
+"More" = "MORE";
+"Referral" = "Referral";
+"Scan QR or enter offer code to claim perks" = "Scan QR or enter offer code to claim perks";
+"Enter offer code here" = "Enter offer code here";
+"Get" = "GET";
+
+// Customer Account Info Edit Screen
+"Delete Account" = "DELETE ACCOUNT";
+"Edit Account Credentials" = "EDIT ACCOUNT CREDENTIALS";
+"Display Name" = "Display Name";
+"First Name" = "First Name";
+"Last Name" = "Last Name";
+"Phone" = "Phone";
+"Address" = "Address";
+"City" = "City";
+"Province/State" = "Province/State";
+"Select a Province/State" = "Select a Province/State";
+"Postal Code" = "Postal Code";
+"I agree with the Terms & Conditions" = "I agree with the Terms & Conditions";
+"Save" = "Save";
+
+// Invite Screen
+"Scan QR code to quickly be linked to the app download page" = "Scan QR code to quickly be linked to the app download page";
+"Referral ID" = "Referral ID";
+"SMS Invitation" = "SMS Invitation";
+"Send SMS invitation to your friends to earn a reward" = "Send SMS invitation to your friends to earn a reward";
+"Send SMS" = "SEND SMS";
+
+// Convert Screen
+"Points" = "Points";
+"Dollars" = "Dollars";
+"Convert Dollars" = "CONVERT DOLLARS";
+"Convert Points" = "CONVERT POINTS";
+"Cancel" = "CANCEL";
+
+// More Screen
+// - Rewards chart section
+"Rewards Chart" = "REWARDS CHART";
+"Collect" = "Collect"; // 1
+"More to get your" = "more to get your"; // 2
+"You can now claim your" = "You can now claim your";
+
+// - Membership section
+"Membership" = "Membership";
+"Expires" = "Expires";
+"Details" = "Details";
+
+// - Redeeamable section
+"Redeemable" = "REDEEMABLE";
+
+// - Notes section
+"Notes" = "NOTES";
+"Published by" = "Published by";
+
+// Bottom buttons
+"Back" = "BACK";
+"Map" = "MAP";
+"Messages" = "MESSAGES";
+"Activity" = "ACTIVITY";
+"Google Review link cannot be found" = "Google Review link cannot be found";
+"In order to get the reward" = "In order to get the reward";
+
+// Messages Screen
+"Store Message" = "STORE MESSAGE";
+"Activity" = "ACTIVITY";
+
+
+/* Store Owner Account Screens */
+
+// Search Account Screen
+"Search Account" = "Search Account";
+"Scan QR code or type and search" = "Scan Qr code or type and search";
+"Enter account number" = "Enter account number";
+"SCAN QR CODE" = "SCAN QR CODE";
+"SEARCH" = "SEARCH";
+
+// Setup Screen
+"SETUP" = "SETUP";
+"SMS INVITATION" = "SMS INVITATION";
+"EDIT GOOGLE REVIEWS" = "EDIT GOOGLE REVIEWS";
+"VIEW REPORTS" = "VIEW REPORTS";
+"EDIT NOTIFICATIONS" = "EDIT NOTIFICATIONS";
+"TRANSACTION RECORDS" = "TRANSACTION RECORDS";
+"EDIT STAMPSHEET" = "EDIT STAMPSHEET";
+"REFERRAL" = "REFERRAL";
+"STORE MESSAGE" = "STORE MESSAGE";
+"EDIT STORE PRODUCTS" = "EDIT STORE PRODUCTS";
+"EDIT OFFER CODES" = "EDIT OFFER CODES";
+"EDIT REDEEMABLES" = "EDIT REDEEMABLES";
+"EDIT ACCOUNT INFO" = "EDIT ACCOUNT INFO";
+"EDIT MEMBERSHIP" = "EDIT MEMBERSHIP";
+
+// Edit SMS Invitation Screen
+"SMS INVITATION TEXT" = "SMS INVITATION TEXT";
+"CANCEL" = "CANCEL";
+"SET" = "SET";
+"Successfully updated" = "Successfully updated";
+"Enter a promotion text" = "Enter a promotion text";
+
+// Edit Review Reward Screen
+//"EDIT REVIEW REWARD" = "EDIT REVIEW REWARD";
+"Quantity" = "Quantity";
+"points" = "points";
+"dollars" = "dollars";
+"SET REWARD" = "SET REWARD";
+"Successfully set" = "Successfully set";
+"Couldn't set the reward data" = "Couldn't set the reward data";
+
+// Reports Screen
+"REPORTS" = "REPORTS";
+"Period" = "Period";
+"Day" = "Day";
+"Days" = "Days";
+"View Report" = "View Report";
+"Cardholder ID" = "Cardholder ID";
+"Name" = "Name";
+"Date" = "Date";
+"No Data Found" = "No Data Found";
+"Something went wrong" = "Something went wrong";
+
+// All Notications Screen
+"ADD" = "ADD";
+"NOTIFICATIONS" = "NOTIFICATIONS";
+"Type" = "Type";
+"Description" = "Description";
+"Send" = "Send";
+"After" = "After";
+"Before" = "Before";
+"EDIT" = "EDIT";
+"REMOVE" = "REMOVE";
+"Successfully deleted" = "Successfully deleted";
+
+// Transaction Records Screen
+"TRANSACTION RECORDS" = "TRANSACTION RECORDS";
+"Cardholder" = "Cardholder";
+"Transactor" = "Transactor";
+"Description" = "Description";
+"Points" = "Points";
+"Date" = "Date";
+
+// Edit Stampsheet Screen
+"EDIT STAMPSHEET" = "EDIT STAMPSHEET";
+"Rewards" = "Rewards";
+"Stamps" = "Stamps";
+"Autostamp" = "Autostamp";
+"Autoreward" = "Autoreward";
+"ADD STAMPSHEET" = "ADD STAMPSHEET";
+"Prize" = "Prize";
+"Size" = "Size";
+"Auto-Stamp" = "Auto-Stamp";
+"Auto-Reward" = "Auto-Reward";
+"Manage" = "Manage";
+"off" = "off";
+"on" = "on";
+"EDIT" = "EDIT";
+"REMOVE" = "REMOVE";
+"Successfully deleted" = "Successfully deleted";
+"Please add a rewards to the stampsheet" = "Please add a rewards to the stampsheet";
+"Please add stamps to the stampsheet" = "Please add stamps to the stampsheet";
+
+// Add Referral Screen
+"ADD REFERRAL" = "ADD REFERRAL";
+"Name" = "Name";
+"Receiver Amount" = "Receiver Amount";
+"Referrer Amount" = "Referrer Amount";
+"CANCEL" = "CANCEL";
+"ADD" = "ADD";
+"UPDATE" = "UPDATE";
+"Referral is saved successfully" = "Referral is saved successfully";
+"Please fill in the fields" = "Please fill in the fields";
+"Comment about the referral" = "Comment about the referral";
+
+// Store Message Screen
+"STORE MESSAGE" = "STORE MESSAGE";
+"Remove" = "Remove";
+"Enter a new message" = "Enter a new message";
+
+// Edit Store Products Screen
+"EDIT STORE PRODUCTS" = "EDIT STORE PRODUCTS";
+"Name" = "Name";
+"Amount" = "Amount";
+"Quantity" = "Quantity";
+"ADD PRODUCT" = "ADD PRODUCT";
+"Save image" = "Save image";
+"Share" = "Share";
+"CONFIRM" = "CONFIRM";
+
+// Edit Offer Codes Screen
+"EDIT OFFER CODES" = "EDIT OFFER CODES";
+"Code" = "Code";
+"Good until" = "Good until";
+"ADD CODE" = "ADD CODE";
+
+// Edit Redeemables Screen
+"EDIT REDEEMABLES" = "EDIT REDEEMABLES";
+"Cost" = "Cost";
+"Please name the redeemable" = "Please name the redeemable";
+"Please add a price to the redeemable" = "Please add a price to the redeemable";
+
+// Edit Account Credentials Screen
+"EDIT ACCOUNT CREDENTIALS" = "EDIT ACCOUNT CREDENTIALS";
+"DELETE ACCOUNT" = "DELETE ACCOUNT";
+"Are you sure you want to delete your account" = "Are you sure you want to delete your account";
+"Delete Account" = "Delete Account";
+"Cancel" = "Cancel";
+"Please contact application administrator in order to delete your store account" = "Please contact application administrator in order to delete your store account";
+"Display Name" = "Display Name";
+"Add a display name" = "Add a display name";
+"Email" = "Email";
+"Password" = "Password";
+"Enter new password" = "Enter new password";
+"Re-enter password" = "Re-enter password";
+"First Name" = "First Name";
+"Add a first name" = "Add a first name";
+"Last Name" = "Last Name";
+"Add a last name" = "Add a last name";
+"Phone" = "Phone";
+"Add a phone number" = "Add a phone number";
+"Address" = "Address";
+"Add a street address" = "Add a street address";
+"City" = "City";
+"Add a city" = "Add a city";
+"Province/State" = "Province/State";
+"Select a Province/State" = "Select a Province/State";
+"Postal Code" = "Postal Code";
+"Zip/Postal" = "Zip/Postal";
+"Business Name" = "Business Name";
+"Add a business name" = "Add a business name";
+"Card Name" = "Card Name";
+"Add a card name" = "Add a card name";
+"Google Review Link" = "Google Review Link";
+"I agree with the" = "I agree with the";
+"Terms & Conditions" = "Terms & Conditions";
+"Password fields don't match" = "Password fields don't match";
+"You must agree to the Terms & Conditions" = "You must agree to the Terms & Conditions";
+
+// Edit Plans Screen
+"EDIT PLANS" = "EDIT PLANS";
+"Duration" = "Duration";
+"Successfully added" = "Successfully added";
+"Successfully deleted" = "Successfully deleted";
+"Please name the plan" = "Please name the plan";
+"Please add a duration to the plan" = "Please add a duration to the plan";
+
+"Tap to go to your" = "Tap to go to your";
+
+"Reward Name" = "Reward Name";
+"Stamp Count" = "Stamp Count";
+
+// Searched Customer screen
+"No membership" = "No membership";
+"No referrals" = "No referrals";
+"ADD DOLLARS" = "ADD DOLLARS";
+"ADD POINTS" = "ADD POINTS";
+"USE DOLLARS" = "USE DOLLARS";
+"CONVERT" = "CONVERT";
